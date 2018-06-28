@@ -3,3 +3,5 @@ cd %HYBRIS_HOME_DIR%\hybris123 & java -jar target\hybris123.war
 
 shortcut directoru:
 cd %HYBRIS_HOME_DIR%
+
+https://help.hybris.com/6.7.0/hcd/31bf348455034a2299d34626c928309e.html#loio31bf348455034a2299d34626c928309e
